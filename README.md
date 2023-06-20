@@ -3,13 +3,12 @@
 
 For memory: 
 ```bash
-1) gradient
-2) styled text
-3) widget with props
+1) gradient, text, positioning
+2) variables, class conception, type-safe lang
+3) widget with props, custom widget
 4) recompilation into separate files
 5) stateless + stateful widget
-6) simple dart:math
-7) adding Github Pages + baseurl
+6) Github Pages + baseurl
 ```
 
 ## Picture
