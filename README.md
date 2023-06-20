@@ -3,7 +3,7 @@
 
 For memory: 
 ```bash
-1) gradientgit 
+1) gradient
 2) styled text
 3) widget with props
 4) recompilation into separate files
