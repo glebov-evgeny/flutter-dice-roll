@@ -13,4 +13,4 @@ For memory:
 ```
 
 ## Picture
-.
+![pic2](https://github.com/glebov-evgeny/flutter-dice-roll/assets/35433087/eafb2f18-0850-4008-bc89-c8f227d47b1c)
