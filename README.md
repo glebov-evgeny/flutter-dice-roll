@@ -1,5 +1,5 @@
 # Dice Roll App
-## Учебное приложение на flutter (Dice Roll App)
+## Учебное приложение на flutter
 
 For memory: 
 ```bash
